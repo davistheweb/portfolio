@@ -23,7 +23,7 @@ export const Footer = () => {
           </h2>
 
           <p className="text-gray-400 mb-8">
-            Interested in making waves together? Let&apos;s connect and create
+            Interested in making waves together? Let&apos;s connect and build
             something amazing.
           </p>
 

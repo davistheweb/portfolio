@@ -32,10 +32,10 @@ const Hero = () => {
                 {new Date().getFullYear() -
                   new Date("2022-08-30").getFullYear()}
                 + Years of experience. Started coding in 2022, because of my
-                curiosity on how things like the web and software works.
+                curiosity on how things like the web and softwares work.
               </p>
               <p className="max-w-[319px]">
-                I build performant, secure, and reliable software — and test
+                I build performant, secured, and reliable software — and test
                 their security too. <br />
                 (I LOVE TO WRITE AND EXPLORE PHP / Laravel)
               </p>
