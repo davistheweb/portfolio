@@ -10,7 +10,7 @@ export const projects = [
     name: "PlanEdge",
     desc: "Developed a personal project management system to organize and track tasks efficiently.",
     lang: "React.js + InertiaJs + Laravel + SQL",
-    link: "https://planedge.pxxl.live",
+    link: "https://planedge.pxxl.xyz",
     github: "https://github.com/davistheweb",
   },
   {
