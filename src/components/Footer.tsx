@@ -63,7 +63,7 @@ export const Footer = () => {
               <Github size={18} />
             </a>
             <a
-              href="https://wa.me/+2349018268069"
+              href="https://wa.me/+2349018797128"
               className={iconStyle}
               aria-label="WhatsApp"
               target="_blank"
