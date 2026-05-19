@@ -7,5 +7,5 @@ export default function page() {
     );
   }, []);
 
-  return <div>redirecting</div>;
+  return <div>redirecting to contact</div>;
 }
